@@ -1,8 +1,13 @@
 # HRM
-Layered architecture using Generic Repository &amp; Service layer in C# 
+A sample project on how to build N tier architecture based on Generic Repository Pattern with Entity Framework, IoC Container and Dependency Injection in ASP.NET MVC.
 
-Technlogies used:
+Frameworks & Technlogies used:
 
-*  Asp.Net MVC5
-* EntityFramework6 code first 
-* Autofac(IOC)
+Technologies & Tools used:
+
+1. .NET Framework 4.6.1
+2. ASP.NET MVC 5.2
+3. Entity Framework 6.0
+4. Sql Server express 2014 
+5. Autofac 4.0
+7. Visual Studio 2015
